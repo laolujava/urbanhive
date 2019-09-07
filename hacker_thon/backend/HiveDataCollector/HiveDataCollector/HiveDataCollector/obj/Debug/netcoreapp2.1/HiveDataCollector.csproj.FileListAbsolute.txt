@@ -1,0 +1,15 @@
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\bin\Debug\netcoreapp2.1\HiveDataCollector.deps.json
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\bin\Debug\netcoreapp2.1\HiveDataCollector.runtimeconfig.json
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\bin\Debug\netcoreapp2.1\HiveDataCollector.runtimeconfig.dev.json
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\bin\Debug\netcoreapp2.1\HiveDataCollector.dll
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\bin\Debug\netcoreapp2.1\HiveDataCollector.pdb
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\obj\Debug\netcoreapp2.1\HiveDataCollector.csproj.CoreCompileInputs.cache
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\obj\Debug\netcoreapp2.1\HiveDataCollector.RazorAssemblyInfo.cache
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\obj\Debug\netcoreapp2.1\HiveDataCollector.RazorAssemblyInfo.cs
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\obj\Debug\netcoreapp2.1\HiveDataCollector.AssemblyInfoInputs.cache
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\obj\Debug\netcoreapp2.1\HiveDataCollector.AssemblyInfo.cs
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\obj\Debug\netcoreapp2.1\HiveDataCollector.RazorTargetAssemblyInfo.cache
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\obj\Debug\netcoreapp2.1\HiveDataCollector.dll
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\obj\Debug\netcoreapp2.1\HiveDataCollector.pdb
+C:\Users\newco\source\repos\HiveDataCollector\HiveDataCollector\obj\Debug\netcoreapp2.1\HiveDataCollector.csprojAssemblyReference.cache
